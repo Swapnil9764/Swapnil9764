@@ -8,7 +8,7 @@
 
 <br />
 
-## 💫 Hi there — I'm **Krushna** 👋
+## 💫 Hi there — I'm **swapnil** 👋
 
 💻 **Computer Engineering Student | Software Developer | Data & AI Enthusiast**  
 🚀 *Code. Create. Innovate.*
